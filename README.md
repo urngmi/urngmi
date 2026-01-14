@@ -123,4 +123,10 @@ Tools          ► Git, Docker, Linux, Obsidian
 
 ![Profile Views](https://komarev.com/ghpvc/?username=urngmi&color=blue&style=flat-square)
 
+---
+
+<img src="https://huariqueje.tumblr.com/image/172842139331" alt="Painting by Jacques Marie Gaston Onfroy de Bréville" width="100%">
+
+<sup>By <a href="https://en.wikipedia.org/wiki/en:Job_(illustrator)">Jacques Marie Gaston Onfroy de Bréville</a> (French illustrator, 1858-1931) - Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=116582677">Wikimedia Commons</a></sup>
+
 </div>
