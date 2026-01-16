@@ -122,11 +122,7 @@ Tools          ► Git, Docker, Linux, Obsidian
 — Steve Jobs
 
 ![Profile Views](https://komarev.com/ghpvc/?username=urngmi&color=blue&style=flat-square)
-
----
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Napol%C3%A9on_%C3%A0_Brienne.jpg" alt="The young Napoleon Bonaparte studying at the military academy at Brienne-le-Chateau by Jacques Marie Gaston Onfroy de Bréville" width="50%">
-
-<sup>By <a href="https://en.wikipedia.org/wiki/en:Job_(illustrator)">Jacques Marie Gaston Onfroy de Bréville</a> (French illustrator, 1858-1931) - Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=116582677">Wikimedia Commons</a></sup>
+<br><br>
+<img src="./donut.gif" width="60%">
 
 </div>
